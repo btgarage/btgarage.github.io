@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Welcome to B&T Garage
-tagline: Where a 1989 Mustang known as Foxy Molly is reborn into a road-race car
+tagline: Building Molly
 ---
 {% include JB/setup %}
 
